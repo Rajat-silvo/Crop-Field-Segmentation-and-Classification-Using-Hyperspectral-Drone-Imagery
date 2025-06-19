@@ -13,3 +13,5 @@
 ● Applied PCA and data augmentation techniques to optimize spectral analysis of agricultural land.
 
 ● Implemented patch-based image processing and class balancing techniques to handle large-scale aerial surveys, enabling efficient crop monitoring and reducing manual inspection time for precision agriculture applications.
+
+Achieved the best accuracy of 99% using the CNN model. 
