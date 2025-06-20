@@ -14,4 +14,4 @@
 
 ● Implemented patch-based image processing and class balancing techniques to handle large-scale aerial surveys, enabling efficient crop monitoring and reducing manual inspection time for precision agriculture applications.
 
-Achieved the best accuracy of 99% using the CNN model. 
+Achieved the best accuracy of 99.76% using the CNN model. 
