@@ -9,6 +9,7 @@
    - using CNNCRF technique
 
 ● Worked on WHU Hyperspectral Dataset for training of model
+Dataset Link - https://www.kaggle.com/datasets/rupeshkumaryadav/whu-hyperspectral-dataset/
 
 ● Applied PCA and data augmentation techniques to optimize spectral analysis of agricultural land.
 
